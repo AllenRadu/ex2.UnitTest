@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ex2.UnitTest
 {
-    class Program
+    public class Program
     {
+        
         static void Main(string[] args)
         {
         }
